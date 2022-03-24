@@ -10,7 +10,7 @@
 |                |  Jacob Lansang   |
 
 # Introduction
-
+This lab had the purpose of teaching us how to use an integration testing system to analyze the reliability of a system. For our lab, we used a combination of CASRE and SRTAT to accomplish these tests.
 # 
 
 # Assessment Using Reliability Growth Testing 
