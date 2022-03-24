@@ -25,8 +25,14 @@ This lab had the purpose of teaching us how to use an integration testing system
 
 # How the team work/effort was divided and managed
 
+In order to complete parts 1 and 2, we all joined together on a call and one team member shared their screen. All together, we then went through the work together. We collectively decided what to write for our tests, and the person sharing their screen was in charge of writing down our suggestions. This was very effective, since 4 people were tackling a problem at the same time.
+
 # 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
+We had difficulty getting the tools to work on our computers. We also had issues reformatting the data to make it acceptable to the tools. In the end, we had several group members who were able to determine the issue and solve the problem. 
+
 # Comments/feedback on the lab itself
+
+This lab was interesting and provided valuable insight into reliability assessment. There was some confusion on how exactly we were expected to use the tools to complete the lab. More explicit instructions would have been helpful.
