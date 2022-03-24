@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:      |  8   |
+| -------------- | --- |
+| Student Names: |  Kaitlin Culligan   |
+|                |  Kunal Dhawan   |
+|                |  Chloe Bouchard   |
+|                |  Jacob Lansang   |
 
 # Introduction
 
