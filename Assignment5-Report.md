@@ -15,6 +15,8 @@ This lab had the purpose of teaching us how to use an integration testing system
 
 # Assessment Using Reliability Growth Testing 
 
+We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
