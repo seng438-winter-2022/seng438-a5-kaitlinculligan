@@ -18,6 +18,8 @@ This lab had the purpose of teaching us how to use an integration testing system
 We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 
 # Assessment Using Reliability Demonstration Chart 
+![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
+
 
 # 
 
