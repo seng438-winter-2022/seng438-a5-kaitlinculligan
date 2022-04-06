@@ -20,9 +20,6 @@ We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
 
-![image](https://user-images.githubusercontent.com/82078868/161868605-681cb948-7921-4a5c-9c41-bb0b8dfdd786.png)
-
-
 
 # 
 
