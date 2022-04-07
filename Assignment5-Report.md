@@ -10,7 +10,7 @@
 |                |  Jacob Lansang   |
 
 # Introduction
-This lab had the purpose of teaching us how to use an integration testing system to analyze the reliability of a system. For our lab, we used a combination of CASRE and SRTAT to accomplish these tests.
+This lab had the purpose of teaching us how to use an integration testing system to analyze the reliability of a system. For our lab, we used a combination of CASRE and SRTAT to accomplish these tests. Reliability assessment was done using a tool called a Reliability Demonstration Chart in Microsoft Excel.
 # 
 
 # Assessment Using Reliability Growth Testing 
@@ -19,6 +19,8 @@ We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
+
+As shown by this chart, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
 
 
 # 
@@ -35,7 +37,7 @@ In order to complete parts 1 and 2, we all joined together on a call and one tea
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-We had difficulty getting the tools to work on our computers. We also had issues reformatting the data to make it acceptable to the tools. In the end, we had several group members who were able to determine the issue and solve the problem. 
+We had difficulty getting the tools to work on our computers. We also had issues reformatting the data to make it acceptable to the tools. In the end, we had several group members who were able to determine the issue and solve the problem. Use of the RDC was somewhat difficult as the RDC only accepted 16 observations, so many different parameters needed to be changed in the Plot Data section of the RDC. Much work on the RDC was done through trial and error, but once you are aware of the all the components of the RDC it becomes relatively simple to use.
 
 # Comments/feedback on the lab itself
 
