@@ -60,4 +60,4 @@ We had difficulty getting the tools to work on our computers. We also had issues
 
 # Comments/feedback on the lab itself
 
-This lab was interesting and provided valuable insight into reliability assessment. There was some confusion on how exactly we were expected to use the tools to complete the lab. More explicit instructions would have been helpful. The fact that the demonstration was a week before the actual submission also added to the confusion as the TAs did not really answer the doubts due to the time constrait.
+This lab was interesting and provided valuable insight into reliability assessment. There was some confusion on how exactly we were expected to use the tools to complete the lab. For some team members, 75% of the recommended tools did not work, which made the lab very difficult to complete. Additionally, the tools did not have any helpful instruction manuals available. More explicit instructions in the lab would have been helpful. The fact that the demonstration was a week before the actual submission also added to the confusion as the TAs did not really answer the doubts due to the time constrait.
