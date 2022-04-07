@@ -36,11 +36,11 @@ We were able to use both the C-SFRAT and the RDC to assess the reliability of th
 
 # Discussion on Similarity and Differences of the Two Techniques
 
+Both the techniques helped us understand and interpret the failure rates of data given to us in regard to the expected value. While Reliability growth testing helped us to envisage the entire dataset over a given time range, the Reliability Demonstration chart allowed us to only differentiate certain accepted and rejected conditions. Apart from this, RGA was dependant on failure count in contrast to RDC, which was not.
+
 # How the team work/effort was divided and managed
 
 In order to complete parts 1 and 2, we all joined together on a call and one team member shared their screen. All together, we then went through the work together. We collectively decided what to write for our tests, and the person sharing their screen was in charge of writing down our suggestions. This was very effective, since 4 people were tackling a problem at the same time.
-
-# 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
