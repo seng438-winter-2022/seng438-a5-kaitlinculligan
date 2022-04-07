@@ -17,6 +17,8 @@ This lab had the purpose of teaching us how to use an integration testing system
 
 We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 
+![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/intensity_graph_a5.png?raw=true)
+
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
 As shown by this chart, which has a failure rate of 4 failures per 10000 calls, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
