@@ -19,9 +19,14 @@ We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
+As shown by this chart, which has a failure rate of 4 failures per 10000 calls, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
 
-As shown by this chart, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
+![image](https://user-images.githubusercontent.com/82078868/162260920-27541445-8c7b-44e2-a915-07fd66d5d107.png)
+This chart shows a failure rate of 3 failures per 10000 calls, in which almost all points are within the "continue test" range. 
 
+
+![image](https://user-images.githubusercontent.com/82078868/162261050-4f311809-a502-4e6a-97af-f32b735a4358.png)
+This chart shows a failure rate of 2 failures per 10000 calls, in which all points are within the reject region.
 
 # 
 
