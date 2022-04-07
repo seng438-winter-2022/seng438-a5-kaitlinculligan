@@ -49,7 +49,6 @@ Both the techniques helped us understand and interpret the failure rates of data
 
 To summarise, where reliability growth testing helped us to expand on the system's reliability by presenting us the certain intervals where the system lacks Reliability Demonstration Chart, on the other hand, was predominately used to verify the systems reliability as a whole.
 
-
 # How the team work/effort was divided and managed
 
 In order to complete parts 1 and 2, we all joined together on a call and one team member shared their screen. All together, we then went through the work together. We collectively decided what to write for our tests, and the person sharing their screen was in charge of writing down our suggestions. This was very effective, since 4 people were tackling a problem at the same time.
