@@ -15,10 +15,16 @@ This lab had the purpose of teaching us how to use an integration testing system
 
 # Assessment Using Reliability Growth Testing 
 
-We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
+We used the negative binomial and IFR Salvia & Bollinger models for our graphs. As determined by the results of our model comparison as shown below:
+![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/mean_comparison_a5.png?raw=true)
 
+Here is our time-between-failures graph:
 ![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/DW3_a5.png?raw=true)
+
+Here is our failure intensity graph:
 ![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/intensity_graph_a5.png?raw=true)
+
+The acceptable range of failure rate for the SUT was anything below 7, which the SUT reached partway through testing.
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
