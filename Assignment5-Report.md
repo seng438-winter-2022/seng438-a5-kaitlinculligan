@@ -24,7 +24,9 @@ Here is our time-between-failures graph:
 Here is our failure intensity graph:
 ![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/intensity_graph_a5.png?raw=true)
 
-The acceptable range of failure rate for the SUT was anything below 7, which the SUT reached partway through testing.
+We were unable to get a reliability graph, but we suspect it would look like a standard reliability graph.
+
+The acceptable range of failure rate for the SUT was anything below 7, which the SUT reached partway through testing. There are several advantages and disadvantages when it comes to using reliabilty growth testing. For starters, reliability growth testing allows for insight into several different metrics of reliability including MTTF, failure intensity and reliability. It also allows 
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
