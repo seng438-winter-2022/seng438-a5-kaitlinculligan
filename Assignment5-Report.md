@@ -17,6 +17,7 @@ This lab had the purpose of teaching us how to use an integration testing system
 
 We used the negative binomial and IFR Salvia & Bollinger models for our graphs.
 
+![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/DW3_a5.png?raw=true)
 ![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/intensity_graph_a5.png?raw=true)
 
 # Assessment Using Reliability Demonstration Chart 
