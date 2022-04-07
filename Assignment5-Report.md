@@ -27,6 +27,8 @@ As shown by this chart, we were able to assess the reliability of this system us
 
 # Comparison of Results
 
+We were able to use both the C-SFRAT and the RDC to assess the reliability of this system. Using the RDC to assess the reliability of the system, we saw that this software would be acceptable if we set the failure rate to 4 failures per 10000 unit calls. Any more failures past this point means that the system would be unacceptable, as show by the chart in the previous section. 
+
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
