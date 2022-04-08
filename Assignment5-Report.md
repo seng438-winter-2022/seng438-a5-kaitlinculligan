@@ -24,9 +24,9 @@ Here is our time-between-failures graph:
 Here is our failure intensity graph:
 ![alt text](https://github.com/seng438-winter-2022/seng438-a5-kaitlinculligan/blob/main/media/intensity_graph_a5.png?raw=true)
 
-We were unable to get a reliability graph, but we suspect it would look like a standard reliability graph.
+We were unable to get a reliability graph, but we suspect it would look like a standard reliability graph with all data for reliability falling into acceptable ranges. This is due to the time-between-failures graph and failure intensity graph both displaying data in acceptable ranges.
 
-The acceptable range of failure rate for the SUT was anything below 7, which the SUT reached partway through testing. There are several advantages and disadvantages when it comes to using reliabilty growth testing. For starters, reliability growth testing allows for insight into several different metrics of reliability including MTTF, failure intensity and reliability. A drawback to using reliability growth testing is that because it gives a more indepth view, a higher knowledge of the content is required in order to comprehend what is going on.
+The acceptable range of failure rate for the SUT was anything below 7, which the SUT reached partway through testing. Therefore, the SUT had reached a failure rate which is acceptable given the circumstances. There are several advantages and disadvantages when it comes to using reliabilty growth testing. For starters, reliability growth testing allows for insight into several different metrics of reliability including MTTF, failure intensity and reliability. A drawback to using reliability growth testing is that because it gives a more indepth view, a higher knowledge of the content is required in order to comprehend what is going on.
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
@@ -43,7 +43,7 @@ This chart shows a failure rate of 2 failures per 10000 calls, in which all poin
 
 # Comparison of Results
 
-We were able to use both the C-SFRAT and the RDC to assess the reliability of this system. Using the RDC to assess the reliability of the system, we saw that this software would be acceptable if we set the failure rate to 4 failures per 10000 unit calls. Any more failures past this point means that the system would be unacceptable, as show by the chart in the previous section. 
+We were able to use both the C-SFRAT and the RDC to assess the reliability of this system. Using the RDC to assess the reliability of the system, we saw that this software would be acceptable if we set the failure rate to 4 failures per 10000 unit calls. Any more failures past this point means that the system would be unacceptable, as show by the chart in the previous section. The results from reliability growth testing supported that over time, the system was becoming more reliable, despite there being some spikes in failure intensity during integration testing.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
