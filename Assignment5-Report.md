@@ -38,12 +38,11 @@ This chart shows a failure rate of 3 failures per 10000 calls, in which almost a
 
 ![image](https://user-images.githubusercontent.com/82078868/162261050-4f311809-a502-4e6a-97af-f32b735a4358.png)
 This chart shows a failure rate of 2 failures per 10000 calls, in which all points are within the reject region.
-
 # 
 
 # Comparison of Results
 
-We were able to use both the C-SFRAT and the RDC to assess the reliability of this system. Using the RDC to assess the reliability of the system, we saw that this software would be acceptable if we set the failure rate to 4 failures per 10000 unit calls. Any more failures past this point means that the system would be unacceptable, as show by the chart in the previous section. The results from reliability growth testing supported that over time, the system was becoming more reliable, despite there being some spikes in failure intensity during integration testing.
+We were able to use both the C-SFRAT and the RDC to assess the reliability of this system. Using the RDC to assess the reliability of the system, we saw that the software that was tested would be acceptable if we set the failure rate to 4 failures per 10000 unit calls. Any more failures past this point means that the system would be unacceptable, as shown by the chart in the previous section. The results from reliability growth testing supported that over time, the system was becoming more reliable, despite there being some spikes in failure intensity during integration testing.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
@@ -61,4 +60,4 @@ We had difficulty getting the tools to work on our computers. We also had issues
 
 # Comments/feedback on the lab itself
 
-This lab was interesting and provided valuable insight into reliability assessment. There was some confusion on how exactly we were expected to use the tools to complete the lab. For some team members, 75% of the recommended tools did not work, which made the lab very difficult to complete. Additionally, the tools did not have any helpful instruction manuals available. More explicit instructions in the lab would have been helpful. The fact that the demonstration was a week before the actual submission also added to the confusion as the TAs did not really answer the doubts due to the time constrait.
+This lab was interesting and provided valuable insight into reliability assessment. There was some confusion on how exactly we were expected to use the tools to complete the lab. For some team members, 75% of the recommended tools did not work, which made the lab very difficult to complete. Additionally, the tools did not have any helpful instruction manuals available. More explicit instructions in the lab would have been helpful. The fact that the demonstration was a week before the actual submission also added to the confusion as the TAs did not really answer the doubts due to the time constraint.
