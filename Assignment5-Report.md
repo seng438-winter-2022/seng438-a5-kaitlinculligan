@@ -10,7 +10,7 @@
 |                |  Jacob Lansang   |
 
 # Introduction
-This lab had the purpose of teaching us how to use an integration testing system to analyze the reliability of a system. For our lab, we used a combination of CASRE and SRTAT to accomplish these tests. Reliability assessment was done using a tool called a Reliability Demonstration Chart in Microsoft Excel.
+This lab had the purpose of teaching us how to use an integration testing system to analyze the reliability of a system given the failure data of the system, including the time between failures, the failure count, and the execution time of the system. For our lab, we used a combination of CASRE and SRTAT to accomplish these tests. Reliability assessment of a software will be done using a tool called a Reliability Demonstration Chart in Microsoft Excel.
 # 
 
 # Assessment Using Reliability Growth Testing 
