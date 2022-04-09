@@ -38,7 +38,6 @@ This chart shows a failure rate of 3 failures per 10000 calls, in which almost a
 
 ![image](https://user-images.githubusercontent.com/82078868/162261050-4f311809-a502-4e6a-97af-f32b735a4358.png)
 This chart shows a failure rate of 2 failures per 10000 calls, in which all points are within the reject region.
-# 
 
 # Comparison of Results
 
