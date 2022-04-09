@@ -30,14 +30,18 @@ The acceptable range of failure rate for the SUT was anything below 7, which the
 
 # Assessment Using Reliability Demonstration Chart 
 ![image](https://user-images.githubusercontent.com/82078868/161868540-a3111e88-9d66-41f3-8137-14668f49f34a.png)
-As shown by this chart, which has a failure rate of 4 failures per 10000 calls, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
+As shown by this chart, which has a failure rate of 4 failures per 10000 seconds, we were able to assess the reliability of this system using the RDC. We we able to adjust the parameters of the RDC in order to put all points of the chart in the acceptable range of the Reliability Demonstration chart.
 
 ![image](https://user-images.githubusercontent.com/82078868/162260920-27541445-8c7b-44e2-a915-07fd66d5d107.png)
-This chart shows a failure rate of 3 failures per 10000 calls, in which almost all points are within the "continue test" range. 
+This chart shows a failure rate of 3 failures per 10000 seconds, in which almost all points are within the "continue test" range. 
 
 
 ![image](https://user-images.githubusercontent.com/82078868/162261050-4f311809-a502-4e6a-97af-f32b735a4358.png)
-This chart shows a failure rate of 2 failures per 10000 calls, in which all points are within the reject region.
+This chart shows a failure rate of 2 failures per 10000 seconds, in which all points are within the reject region.
+
+As shown by these charts, we were able to assess the reliability of this system using the RDC. The RDC was able to be used effectively as we were aware of the number of failures as well as the times of each failure. By inputting this failure data, we were able to analyse the trend that the RDC produced. By setting the MTTF to different variables, we observed that the RDC changes to let us know if the software is ready to be released or if it needs to be tested more. We observed that 4 failures per 10000 seconds resulted in the RDC telling us that the software is ready to be released, while a failure rate of 3 or 2 failures per 10000 seconds result in the RDC telling us to continue testing or that the software has failed. 
+
+Overall, the RDC was very useful for analyzing the reliability of this system, but it is limited in that it can only indicate that the SUT is acceptable or not. 
 
 # Comparison of Results
 
@@ -45,7 +49,7 @@ We were able to use both the C-SFRAT and the RDC to assess the reliability of th
 
 # Discussion on Similarity and Differences of the Two Techniques
 
-Both the techniques helped us understand and interpret the failure rates of data given to us in regard to the expected value. While Reliability growth testing helped us to envisage the entire dataset over a given time range, the Reliability Demonstration chart allowed us to only differentiate certain accepted and rejected conditions. Apart from this, RGA was dependant on failure count in contrast to RDC, which was not.
+Both the techniques helped us understand and interpret the failure rates of data given to us in regard to the expected value. While Reliability growth testing helped us to envisage the entire dataset over a given time range, the Reliability Demonstration chart allowed us to only differentiate certain accepted and rejected conditions. Both techniques allowed us to analyse trends based on different value and datasets. Apart from this, RGA was dependant on failure count in contrast to RDC, which was not. 
 
 To summarise, where reliability growth testing helped us to expand on the system's reliability by presenting us the certain intervals where the system lacks Reliability Demonstration Chart, on the other hand, was predominately used to verify the systems reliability as a whole.
 
